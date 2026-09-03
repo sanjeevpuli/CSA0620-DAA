@@ -1,0 +1,4 @@
+# Minimal dependencies for DAA Closest-Pair Assignment
+# Note: Core algorithms (Brute-Force, Divide-and-Conquer, Benchmarking, Tracing) use ONLY standard library Python.
+# Matplotlib is used solely for generating publication-grade figures and visualizations.
+matplotlib>=3.5.0
